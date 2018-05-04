@@ -16,10 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/treltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd:system/vendor/firmware/bcm4358A0_V0033.0000.hcd \
-    vendor/samsung/treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd:system/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd \
     vendor/samsung/treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094.hcd:system/vendor/firmware/BCM4358A1_V0054.0094.hcd \
+    vendor/samsung/treltexx/proprietary/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd:system/vendor/firmware/BCM4358A1_V0054.0094_wisol.hcd \
     vendor/samsung/treltexx/proprietary/etc/sec_s3fwrn5_rfreg_thl.bin:system/etc/sec_s3fwrn5_rfreg_thl.bin \
-    vendor/samsung/treltexx/proprietary/bin/cbd:system/bin/cbd \
-    vendor/samsung/treltexx/proprietary/usr/idc/Synaptics_HID_TouchPad.idc:system/usr/idc/Synaptics_HID_TouchPad.idc \
-    vendor/samsung/treltexx/proprietary/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc:system/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc
-
+    vendor/samsung/treltexx/proprietary/bin/cbd:system/bin/cbd
